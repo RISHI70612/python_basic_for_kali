@@ -1,0 +1,89 @@
+hello world
+hello,world
+this string is awesome!
+
+
+test that new line 
+
+
+100
+0
+2500
+1.0
+50.0
+312500000
+2
+8
+
+
+Hacking is the basic need of human 
+HACKING IS THE BASIC NEED OF HUMAN 
+hacking is the basic need of human 
+Hacking Is The Basic Need Of Human
+35
+22
+30
+My name is rishi and I am 22 years old .
+23
+
+
+My name is jen and my age is 20 years old.
+1000
+15
+54
+
+
+ you got yourself a drinK
+fuck off, loser
+
+
+you are so poor and young kiddo
+
+
+avengers
+['lort', 'justice league']
+['lort', 'justice league', 'hobbit']
+['avengers']
+4
+['avengers', 'lort', 'justice league', 'hobbit', 'Harry potter']
+['avengers', 'lort', 'hustle', 'justice league', 'hobbit', 'Harry potter']
+['avengers', 'lort', 'hustle', 'justice league', 'hobbit']
+['lort', 'hustle', 'justice league', 'hobbit']
+95
+[['jenn', 89], ['rupak', 84], ['god', 95]]
+
+
+('a', 'b', 'c', 'd')
+c
+
+
+rupak
+jessica
+ankit
+jenny
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+g
+d
+this
+['this', 'is', 'a', 'sentence']
+hi
+True
+False
+True
+my favourite movie is endgame
+{'name': 'John Doe', 'age': 30, 'city': 'New York', 'email': 'john.doe@example.com'}
+{'name': 'John Doe', 'age': 25, 'grade': 'A'}
+{'name': 'John Doe', 'age': 25}
+{'Math': 90, 'Science': 85, 'English': 92}
+78
+{}
